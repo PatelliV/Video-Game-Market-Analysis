@@ -25,6 +25,6 @@ Per ottenere risultati accurati, il progetto è stato diviso in tre fasi tecnich
 
 <img width="450" height="348" alt="image" src="https://github.com/user-attachments/assets/8d77fd50-ccd5-44aa-9444-8ddc9ac99c00" />
 <img width="436" height="347" alt="image" src="https://github.com/user-attachments/assets/129dd1b0-72f2-4dbe-a6fd-17ed6a99c8db" />
-<img width="460" height="349" alt="image" src="https://github.com/user-attachments/assets/bbb4d676-eda9-4fc6-b6e0-18534ac1162f" />
+<img width="450" height="340" alt="image" src="https://github.com/user-attachments/assets/377fe54d-0281-4d16-9bf4-488b6b5f9a3a" />
 
 
