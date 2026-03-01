@@ -24,5 +24,6 @@ Per ottenere risultati accurati, il progetto è stato diviso in tre fasi tecnich
 - **Funzioni Avanzate**: CTEs, Window Functions, Safe Casting, Mathematical Dividers.
 
 <img width="450" height="348" alt="image" src="https://github.com/user-attachments/assets/8d77fd50-ccd5-44aa-9444-8ddc9ac99c00" />
+<img width="436" height="347" alt="image" src="https://github.com/user-attachments/assets/129dd1b0-72f2-4dbe-a6fd-17ed6a99c8db" />
 
 
