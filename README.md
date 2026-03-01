@@ -23,5 +23,6 @@ Per ottenere risultati accurati, il progetto è stato diviso in tre fasi tecnich
 - **Linguaggio**: SQL (Standard SQL)
 - **Funzioni Avanzate**: CTEs, Window Functions, Safe Casting, Mathematical Dividers.
 
-<img width="449" height="344" alt="image" src="https://github.com/user-attachments/assets/f0f420fc-6bd5-4475-b82c-facc667efebf" />
+<img width="450" height="348" alt="image" src="https://github.com/user-attachments/assets/8d77fd50-ccd5-44aa-9444-8ddc9ac99c00" />
+
 
