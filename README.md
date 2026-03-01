@@ -23,3 +23,4 @@ Per ottenere risultati accurati, il progetto è stato diviso in tre fasi tecnich
 - **Linguaggio**: SQL (Standard SQL)
 - **Funzioni Avanzate**: CTEs, Window Functions, Safe Casting, Mathematical Dividers.
 Portfolio Project: Analisi di business del mercato videoludico. Insight su performance delle piattaforme e crescita dei generi tramite SQL (BigQuery)
+<img width="885" height="398" alt="image" src="https://github.com/user-attachments/assets/b540e482-8fdd-4de0-93d7-0d93fa1d91a0" />
